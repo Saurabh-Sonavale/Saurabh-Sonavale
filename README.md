@@ -1,4 +1,4 @@
-![logo](https://github.com/Saurabh-Sonavale/Saurabh-Sonavale/blob/main/background.png)
+![logo](https://github.com/Saurabh-Sonavale/Saurabh-Sonavale/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Sonavale</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
